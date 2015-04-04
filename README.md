@@ -5,17 +5,17 @@ cli tool to interact with https://haveibeenpwned.com API
 Compiling
 =========
 first get the dependency
-```Shell
+```
 go get github.com/codegangsta/cli
 ```
 
 then build the codez
-```Shell
+```
 go build
 ```
 
 run
-```Shell
+```
 ./iGOtpwned -h
 
 NAME:
