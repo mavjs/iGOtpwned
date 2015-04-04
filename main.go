@@ -28,7 +28,7 @@ func main() {
 
 	app := cli.NewApp()
 	app.Name = "iGOtpwned"
-	app.Usage = "'Have I been pwned?' golang cli checker"
+	app.Usage = "'Have I been pwned?' golang cli checker app"
 	app.Version = "0.0.1"
 	app.Authors = []cli.Author{
 		cli.Author{
